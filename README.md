@@ -5,4 +5,4 @@ Janvi Pareshbhai Desai: 30259858; and
 Tanzina Khan: 30258191 
 
 Summary of Assignment 2:
-The primary focus of this assignment is to understand the fundamental principles of Least Square Estimation (LSE) including linear and non-linear LSE problem solving using Python. 
+This assignment explored Least Squares Estimation (LSE) through polynomial curve fitting and 3D satellite positioning. Both unweighted and weighted fits were examined, showing how weighting observations based on noise improves accuracy. LSE was also used to estimate 3D receiver positions, demonstrating how iterative corrections reduce position errors. The assignment highlighted the practical application of LSE and the balance between model complexity and accuracy.
